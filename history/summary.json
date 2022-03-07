@@ -4,7 +4,7 @@
     "url": "https://kuerbis.cf",
     "icon": "https://favicons.githubusercontent.com/kuerbis.cf",
     "slug": "kuerbis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1483,
     "timeMonth": 1395,
     "timeYear": 1395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   }
 ]
