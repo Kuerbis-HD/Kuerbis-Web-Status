@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/kuerbis.cf",
     "slug": "kuerbis",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.75%",
+    "uptimeDay": "59.56%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "96.75%",
+    "uptimeYear": "96.75%",
     "time": 1395,
-    "timeDay": 1148,
-    "timeWeek": 1483,
+    "timeDay": 0,
+    "timeWeek": 900,
     "timeMonth": 1395,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2022-03-07": 0
+      "2022-03-08": 84,
+      "2022-03-07": 499
     }
   }
 ]
