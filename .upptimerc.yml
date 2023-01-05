@@ -4,12 +4,12 @@ repo: Kuerbis-Web-Status # The name of this repository
 
 sites:
   - name: Kuerbis
-    url: https://kuerbis.cf
+    url: https://kuerbis.ovh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.kuerbis.cf
+  cname: status.kuerbis.ovh
   # baseUrl: /your-repo-name
   logoUrl: https://i.ibb.co/mh0bGyM/Logo.jpg
   name: Kuerbis Web Status
@@ -18,6 +18,5 @@ status-website:
   navbar:
     - title: Status
       href: /
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
