@@ -4,8 +4,8 @@
     "url": "https://kuerbis.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/kuerbis.ovh.ico",
     "slug": "kuerbis",
-    "status": "up",
-    "uptime": "55.60%",
+    "status": "down",
+    "uptime": "55.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 590,
     "timeYear": 942,
     "dailyMinutesDown": {
+      "2023-06-09": 0,
       "2023-05-08": 64,
       "2023-02-28": 29,
       "2023-01-14": 16,
