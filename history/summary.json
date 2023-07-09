@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kuerbis.ovh.ico",
     "slug": "kuerbis",
     "status": "up",
-    "uptime": "58.17%",
+    "uptime": "58.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "50.21%",
-    "time": 1028,
-    "timeDay": 440,
-    "timeWeek": 2315,
-    "timeMonth": 1050,
-    "timeYear": 889,
+    "uptimeYear": "50.48%",
+    "time": 1026,
+    "timeDay": 493,
+    "timeWeek": 2332,
+    "timeMonth": 1040,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2023-06-27": 20,
       "2023-05-08": 64,
@@ -199,8 +199,7 @@
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
-      "2022-07-10": 1440,
-      "2022-07-09": 1440
+      "2022-07-10": 1440
     }
   }
 ]
