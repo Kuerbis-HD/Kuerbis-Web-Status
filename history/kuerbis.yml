@@ -1,7 +1,7 @@
 url: https://kuerbis.ovh
-status: up
-code: 200
-responseTime: 324
-lastUpdated: 2024-07-13T23:09:15.959Z
+status: down
+code: 418
+responseTime: 149
+lastUpdated: 2024-07-14T03:00:48.266Z
 startTime: 2022-02-23T15:10:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
